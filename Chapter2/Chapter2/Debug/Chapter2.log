@@ -1,0 +1,14 @@
+﻿  Chapter2.cpp
+C:\Users\billy\Desktop\C++\Chapter2&3\Chapter2\Chapter2\Chapter2.cpp(17,13): error C3861: 'expensiveCalculator': identifier not found
+C:\Users\billy\Desktop\C++\Chapter2&3\Chapter2\Chapter2\Chapter2.cpp(21,13): error C3861: 'temperatureProblem': identifier not found
+C:\Users\billy\Desktop\C++\Chapter2&3\Chapter2\Chapter2\Chapter2.cpp(25,23): error C2661: 'remainder': no overloaded function takes 0 arguments
+C:\Users\billy\Desktop\C++\Chapter2&3\Chapter2\Chapter2\Chapter2.cpp(29,13): error C3861: 'totalBill': identifier not found
+C:\Users\billy\Desktop\C++\Chapter2&3\Chapter2\Chapter2\Chapter2.cpp(36,9): error C2672: 'getline': no matching overloaded function found
+C:\Users\billy\Desktop\C++\Chapter2&3\Chapter2\Chapter2\Chapter2.cpp(36,31): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(82): message : see declaration of 'std::getline'
+C:\Users\billy\Desktop\C++\Chapter2&3\Chapter2\Chapter2\Chapter2.cpp(36,31): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(76): message : see declaration of 'std::getline'
+C:\Users\billy\Desktop\C++\Chapter2&3\Chapter2\Chapter2\Chapter2.cpp(36,31): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(70): message : see declaration of 'std::getline'
+C:\Users\billy\Desktop\C++\Chapter2&3\Chapter2\Chapter2\Chapter2.cpp(36,31): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\string(27): message : see declaration of 'std::getline'
